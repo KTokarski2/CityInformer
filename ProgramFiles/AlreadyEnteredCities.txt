@@ -1,0 +1,8 @@
+Warsaw,pl
+Berlin,ge
+New York,us
+Moscow,ru
+Tokyo,jp
+Budapest,hu
+Sydney,au
+Chicago,us
